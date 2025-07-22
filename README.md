@@ -1,8 +1,7 @@
 # 🎬 FairFlicks - AI-Powered Movie Recommendation System
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/quiet-elf-173f82/deploy-status)](https://app.netlify.com/sites/quiet-elf-173f82/deploys)
 
-**Live Demo**: [https://quiet-elf-173f82.netlify.app](https://quiet-elf-173f82.netlify.app)
+**Live Demo**: [https://fairclicks.netlify.app/](https://fairclicks.netlify.app/)
 
 FairFlicks is an advanced movie recommendation system that leverages AI to provide personalized, bias-free, and culturally diverse movie suggestions. Built with React, TypeScript, and OpenAI's GPT-4, it prioritizes fairness, inclusivity, and cultural sensitivity in entertainment recommendations.
 
